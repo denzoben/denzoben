@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @denzoben
-- 👀 I’m interested in working with .NET MVC & .NET core projects.
-- 🌱 I’m currently learning .NET Core
+- 👋 Hi, I’m Sudipra Biswas.
+- 👀 I’m having nearly 4 years of work experience working as a Python Developer.
+- 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sudipraofficial90@gmail.com/8250603730
+- 📫 How to reach me sudiprabiswas90@gmail.com/8250603730
 
 <!---
 denzoben/denzoben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
